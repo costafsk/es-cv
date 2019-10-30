@@ -18,7 +18,7 @@ self.addEventListener("install", function (event) {
                     './',
                     './index.html',
                     './offline.html',
-                    './manifest.json',
+                    './manifest.json.webmanifest',
                     './sw.js'
                 ]);
             }
