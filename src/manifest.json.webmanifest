@@ -1,0 +1,12 @@
+{
+  "name": "es cv",
+  "short_name": "es  cv",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
